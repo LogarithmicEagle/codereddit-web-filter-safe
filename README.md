@@ -1,4 +1,4 @@
-# codereddit-securly-safe
+# codereddit-web-filter-safe
 Original code reddit code can be found here: https://github.com/codereddit/codereddit.    
 
 ## Description
